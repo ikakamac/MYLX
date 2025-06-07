@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="🍉数字全网",CHC家庭影院
+https://migu.777189.xyz/?migutoken=1bc27b8c3655577c0e3aa2b61d4b0009&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="🍉数字全网",CHC动作电影
+https://migu.777189.xyz/?migutoken=f1311ca2a12c375446b083a9a37eeb98&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="🍉数字全网",CHC影迷电影
+https://migu.777189.xyz/?migutoken=b48f851b8f38b068afa94265e0a494cf&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tv.zyh520.tk/live/logo/CHC家庭影院.png" group-title="🍒数字全网",CHC家庭影院
+http://223.100.63.144:880/dx93.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC影迷电影.png" group-title="🍒数字全网",CHC影迷电影
+http://223.100.63.144:880/dx101.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC动作电影.png" group-title="🍒数字全网",CHC动作电影
+http://223.100.63.144:880/dx100.m3u8
