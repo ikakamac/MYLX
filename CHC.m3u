@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC影迷电影.png" group-title="🍉影视电信",CHC影迷电影
+http://110.42.54.199:35455/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC动作电影.png" group-title="🍉影视电信",CHC动作电影
+http://110.42.54.199:35455/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tv.zyh520.tk/live/logo/CHC家庭影院.png" group-title="🍉影视电信",CHC家庭影院
+http://110.42.54.199:35455/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC影迷电影.png" group-title="🍉影视电信",CHC影迷电影
+http://sjyt127.synology.me:35455/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC动作电影.png" group-title="🍉影视电信",CHC动作电影
+http://sjyt127.synology.me:35455/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tv.zyh520.tk/live/logo/CHC家庭影院.png" group-title="🍉影视电信",CHC家庭影院
+http://sjyt127.synology.me:35455/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC影迷电影.png" group-title="🍑影视联通",CHC影迷电影
+http://www.mfykeke.top:35455/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC动作电影.png" group-title="🍑影视联通",CHC动作电影
+http://www.mfykeke.top:35455/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tv.zyh520.tk/live/logo/CHC家庭影院.png" group-title="🍑影视联通",CHC家庭影院
+http://www.mfykeke.top:35455/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC影迷电影.png" group-title="🍑影视联通",CHC影迷电影
+http://i.880824.xyz:35455/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC动作电影.png" group-title="🍑影视联通",CHC动作电影
+http://i.880824.xyz:35455/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tv.zyh520.tk/live/logo/CHC家庭影院.png" group-title="🍑影视联通",CHC家庭影院
+http://i.880824.xyz:35455/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tv.zyh520.tk/live/logo/CHC家庭影院.png" group-title="🍒数字全网",CHC家庭影院
+http://223.100.63.144:880/dx93.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC影迷电影.png" group-title="🍒数字全网",CHC影迷电影
+http://223.100.63.144:880/dx101.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tv.zyh520.tk/live/logo/CHC动作电影.png" group-title="🍒数字全网",CHC动作电影
+http://223.100.63.144:880/dx100.m3u8
