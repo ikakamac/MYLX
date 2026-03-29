@@ -1,0 +1,737 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV1.png" group-title="央视",CCTV-1
+http://192.168.1.11:4869/udp/239.254.200.45:8008?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV2.png" group-title="央视",CCTV-2
+http://192.168.1.11:4869/udp/239.254.200.158:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV3.png" group-title="央视",CCTV-3
+http://192.168.1.11:4869/udp/239.254.201.152:7205?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV4.png" group-title="央视",CCTV-4
+http://192.168.1.11:4869/udp/239.254.200.190:6307?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV5.png" group-title="央视",CCTV-5
+http://192.168.1.11:4869/udp/239.254.201.153:7206?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV6.png" group-title="央视",CCTV-6
+http://192.168.1.11:4869/udp/239.254.201.154:7207?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV7.png" group-title="央视",CCTV-7
+http://192.168.1.11:4869/udp/239.254.200.159:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV8.png" group-title="央视",CCTV-8
+http://192.168.1.11:4869/udp/239.254.201.155:7208?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV9.png" group-title="央视",CCTV-9
+http://192.168.1.11:4869/udp/239.254.200.59:8112?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV10.png" group-title="央视",CCTV-10
+http://192.168.1.11:4869/udp/239.254.200.160:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV11.png" group-title="央视",CCTV-11
+http://192.168.1.11:4869/udp/239.254.201.123:8120?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV12.png" group-title="央视",CCTV-12
+http://192.168.1.11:4869/udp/239.254.200.161:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV13.png" group-title="央视",CCTV-13
+http://192.168.1.11:4869/udp/239.254.200.9:8264?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV14.png" group-title="央视",CCTV-14
+http://192.168.1.11:4869/udp/239.254.200.162:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV15.png" group-title="央视",CCTV-15
+http://192.168.1.11:4869/udp/239.254.201.124:8136?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV16.png" group-title="央视",CCTV-16
+http://192.168.1.11:4869/udp/239.254.200.61:6344?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV17.png" group-title="央视",CCTV-17
+http://192.168.1.11:4869/udp/239.254.201.120:8144?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://192.168.1.11:4869/udp/239.254.200.46:8004?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/cgtn.png" group-title="央视",CGTN
+http://192.168.1.11:4869/udp/239.254.200.12:8056?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K-超高清50P" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV4k.png" group-title="央视",CCTV-4K超高清
+http://192.168.1.11:4869/udp/239.254.200.65:2000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="17" tvg-name="CHC家庭影院" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="央视",CHC家庭影院
+http://192.168.1.11:4869/udp/239.254.200.194:7167?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6" tvg-name="CHC影迷电影" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="央视",CHC影迷电影
+http://192.168.1.11:4869/udp/239.254.200.195:7166?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CHC动作电影" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="央视",CHC动作电影
+http://192.168.1.11:4869/udp/239.254.200.196:7168?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视
+http://192.168.1.11:4869/udp/239.254.200.174:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",河北经济生活
+http://192.168.1.11:4869/udp/239.254.200.18:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",河北都市
+http://192.168.1.11:4869/udp/239.254.200.19:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",河北影视剧
+http://192.168.1.11:4869/udp/239.254.200.20:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",河北少儿科教
+http://192.168.1.11:4869/udp/239.254.200.21:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",河北文旅·公共
+http://192.168.1.11:4869/udp/239.254.200.22:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",河北农民
+http://192.168.1.11:4869/udp/239.254.200.23:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="河北",中国交通频道
+http://192.168.1.11:4869/udp/239.254.201.110:5181?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",睛彩河北
+http://192.168.1.11:4869/udp/239.254.200.27:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",三佳购物
+http://192.168.1.11:4869/udp/239.254.200.143:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",优购物标清
+http://192.168.1.11:4869/udp/239.254.201.78:6283?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中华特产
+http://192.168.1.11:4869/udp/239.254.201.184:5017?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",家有购物标清
+http://192.168.1.11:4869/udp/239.254.201.80:7192?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",聚鲨环球精选标清
+http://192.168.1.11:4869/udp/239.254.201.81:7191?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",优购物精选标清
+http://192.168.1.11:4869/udp/239.254.200.15:7389?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",央广购物标清
+http://192.168.1.11:4869/udp/239.254.201.202:7268?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",河北杂技频道
+http://192.168.1.11:4869/udp/239.254.201.139:7203?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",石家庄新闻综合
+http://192.168.1.11:4869/udp/239.254.200.157:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",石家庄城市服务
+http://192.168.1.11:4869/udp/239.254.200.30:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",石家庄文化娱乐
+http://192.168.1.11:4869/udp/239.254.200.29:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",承德新闻综合
+http://192.168.1.11:4869/udp/239.254.200.32:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",承德旅游文化
+http://192.168.1.11:4869/udp/239.254.200.33:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",张家口新闻综合
+http://192.168.1.11:4869/udp/239.254.200.35:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",张家口公共标清
+http://192.168.1.11:4869/udp/239.254.200.36:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",秦皇岛新闻综合
+http://192.168.1.11:4869/udp/239.254.200.39:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",秦皇岛公共
+http://192.168.1.11:4869/udp/239.254.200.40:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",秦皇岛影视
+http://192.168.1.11:4869/udp/239.254.200.41:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",唐山新闻综合
+http://192.168.1.11:4869/udp/239.254.200.166:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",唐山生活服务
+http://192.168.1.11:4869/udp/239.254.200.167:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",唐山影视
+http://192.168.1.11:4869/udp/239.254.200.168:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",唐山公共
+http://192.168.1.11:4869/udp/239.254.200.169:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",廊坊新闻
+http://192.168.1.11:4869/udp/239.254.200.183:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",廊坊公共
+http://192.168.1.11:4869/udp/239.254.200.184:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",沧州新闻综合标清
+http://192.168.1.11:4869/udp/239.254.200.42:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",沧州公共标清
+http://192.168.1.11:4869/udp/239.254.200.43:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",沧州影视娱乐标清
+http://192.168.1.11:4869/udp/239.254.200.44:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",保定新闻综合
+http://192.168.1.11:4869/udp/239.254.200.144:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",保定公共频道
+http://192.168.1.11:4869/udp/239.254.200.145:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",保定生活健康
+http://192.168.1.11:4869/udp/239.254.200.146:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",衡水新闻综合
+http://192.168.1.11:4869/udp/239.254.200.147:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",衡水经济科教
+http://192.168.1.11:4869/udp/239.254.200.149:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",邢台综合
+http://192.168.1.11:4869/udp/239.254.200.150:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",邢台城市生活
+http://192.168.1.11:4869/udp/239.254.200.152:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",邯郸新闻综合
+http://192.168.1.11:4869/udp/239.254.200.153:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",邯郸公共
+http://192.168.1.11:4869/udp/239.254.200.154:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河北",邯郸科技教育
+http://192.168.1.11:4869/udp/239.254.200.155:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖南卫视
+http://192.168.1.11:4869/udp/239.254.200.48:8012?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
+http://192.168.1.11:4869/udp/239.254.200.53:8036?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://192.168.1.11:4869/udp/239.254.200.51:8028?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://192.168.1.11:4869/udp/239.254.200.163:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/东南卫视.png" group-title="卫视",东南卫视
+http://192.168.1.11:4869/udp/239.254.201.13:6291?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.1.11:4869/udp/239.254.200.47:8024?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/天津卫视.png" group-title="卫视",天津卫视
+http://192.168.1.11:4869/udp/239.254.200.54:1234?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.1.11:4869/udp/239.254.200.57:8056?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/山东卫视.png" group-title="卫视",山东卫视
+http://192.168.1.11:4869/udp/239.254.200.55:8052?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/云南卫视.png" group-title="卫视",云南卫视标清
+http://192.168.1.11:4869/udp/239.254.200.68:8108?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/河南卫视.png" group-title="卫视",河南卫视
+http://192.168.1.11:4869/udp/239.254.201.16:7174?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://192.168.1.11:4869/udp/239.254.200.49:8016?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/四川卫视.png" group-title="卫视",四川卫视
+http://192.168.1.11:4869/udp/239.254.200.202:6325?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/江西卫视.png" group-title="卫视",江西卫视
+http://192.168.1.11:4869/udp/239.254.201.12:6290?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://192.168.1.11:4869/udp/239.254.201.20:6315?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://192.168.1.11:4869/udp/239.254.200.50:8020?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视高清" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/深圳卫视.png" group-title="卫视",深圳卫视高清
+http://192.168.1.11:4869/udp/239.254.200.69:2000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://192.168.1.11:4869/udp/239.254.200.164:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/东方卫视.png" group-title="卫视",东方卫视
+http://192.168.1.11:4869/udp/239.254.200.52:8032?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://192.168.1.11:4869/udp/239.254.200.203:6323?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/山西卫视.png" group-title="卫视",山西卫视标清
+http://192.168.1.11:4869/udp/239.254.200.83:8172?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.1.11:4869/udp/239.254.200.56:8048?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视高清" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/广东卫视.png" group-title="卫视",广东卫视高清
+http://192.168.1.11:4869/udp/239.254.200.70:2000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/广西卫视.png" group-title="卫视",广西卫视
+http://192.168.1.11:4869/udp/239.254.200.80:8300?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://192.168.1.11:4869/udp/239.254.201.15:6339?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/陕西卫视.png" group-title="卫视",陕西卫视标清
+http://192.168.1.11:4869/udp/239.254.200.82:8140?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视标清
+http://192.168.1.11:4869/udp/239.254.200.84:8176?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/青海卫视.png" group-title="卫视",青海卫视标清
+http://192.168.1.11:4869/udp/239.254.200.85:8184?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/海南卫视.png" group-title="卫视",海南卫视
+http://192.168.1.11:4869/udp/239.254.201.125:6288?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/宁夏卫视.png" group-title="卫视",宁夏卫视高清
+http://192.168.1.11:4869/udp/239.254.200.233:8212?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/西藏卫视.png" group-title="卫视",西藏卫视高清
+http://192.168.1.11:4869/udp/239.254.200.230:8188?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/新疆卫视.png" group-title="卫视",新疆卫视高清
+http://192.168.1.11:4869/udp/239.254.200.231:8192?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://192.168.1.11:4869/udp/239.254.200.17:8180?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="卫视",kaku少儿标清
+http://192.168.1.11:4869/udp/239.254.200.91:9248?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/金鹰卡通.png" group-title="卫视",金鹰卡通
+http://192.168.1.11:4869/udp/239.254.200.92:9252?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/嘉佳卡通.png" group-title="卫视",嘉佳卡通标清
+http://192.168.1.11:4869/udp/239.254.201.201:7269?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/优漫卡通.png" group-title="卫视",优漫卡通标清
+http://192.168.1.11:4869/udp/239.254.201.203:7178?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东教育标清
+http://192.168.1.11:4869/udp/239.254.200.247:4120?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/兵团卫视.png" group-title="卫视",兵团卫视高清
+http://192.168.1.11:4869/udp/239.254.200.232:8196?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/三沙卫视.png" group-title="卫视",三沙卫视标清
+http://192.168.1.11:4869/udp/239.254.200.165:4120?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/北京卫视.png" group-title="卫视",北京卫视4K
+http://192.168.1.11:4869/udp/239.254.200.63:2000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视超高清" tvg-logo="http://live.fanmingming.com/tv/北京卫视4K.png" group-title="卫视",北京卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.64:2000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视超高清" tvg-logo="http://live.fanmingming.com/tv/深圳卫视4K.png" group-title="卫视",深圳卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.69:2000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视超高清" tvg-logo="http://live.fanmingming.com/tv/广东卫视4K.png" group-title="卫视",广东卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.70:2000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.234:3002?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png.png" group-title="卫视",江苏卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.235:3003?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.237:3004?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.238:3006?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.180:3001?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视超高清" tvg-logo="hhttp://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视超高清
+http://192.168.1.11:4869/udp/239.254.200.182:3005?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CETV1.png" group-title="卫视",CETV-1
+http://192.168.1.11:4869/udp/239.254.200.225:6259?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="卫视",BRTV纪实科教
+http://192.168.1.11:4869/udp/239.254.200.188:6311?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/湖南金鹰纪实.png" group-title="卫视",金鹰纪实
+http://192.168.1.11:4869/udp/239.254.200.189:6293?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="数字",电视指南
+http://192.168.1.11:4869/udp/239.254.201.217:7250?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/第一剧场.png" group-title="数字",第一剧场
+http://192.168.1.11:4869/udp/239.254.201.218:7258?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/风云剧场.png" group-title="数字",风云剧场
+http://192.168.1.11:4869/udp/239.254.201.219:7257?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/怀旧剧场.png" group-title="数字",怀旧剧场
+http://192.168.1.11:4869/udp/239.254.201.220:7256?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/风云音乐.png" group-title="数字",风云音乐
+http://192.168.1.11:4869/udp/239.254.201.221:7259?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/风云足球.png" group-title="数字",风云足球
+http://192.168.1.11:4869/udp/239.254.201.222:7251?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/高尔夫网球.png" group-title="数字",高尔夫网球
+http://192.168.1.11:4869/udp/239.254.201.223:7252?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/天元围棋.png" group-title="数字",天元围棋
+http://192.168.1.11:4869/udp/239.254.201.156:6270?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/武术世界.png" group-title="数字",武术世界
+http://192.168.1.11:4869/udp/239.254.201.224:7229?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/兵器科技.png" group-title="数字",兵器科技
+http://192.168.1.11:4869/udp/239.254.201.225:7249?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/世界地理.png" group-title="数字",世界地理
+http://192.168.1.11:4869/udp/239.254.201.226:7254?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/老故事.png" group-title="数字",老故事标清
+http://192.168.1.11:4869/udp/239.254.200.104:6237?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/环球奇观.png" group-title="数字",环球奇观标清
+http://192.168.1.11:4869/udp/239.254.200.105:6238?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/文物宝库.png" group-title="数字",文物宝库
+http://192.168.1.11:4869/udp/239.254.201.227:7230?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/国学.png" group-title="数字",国学标清
+http://192.168.1.11:4869/udp/239.254.200.107:6255?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/茶频道.png" group-title="数字",茶频道
+http://192.168.1.11:4869/udp/239.254.200.228:6258?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/女性时尚.png" group-title="数字",女性时尚
+http://192.168.1.11:4869/udp/239.254.201.228:7255?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/文化精品.png" group-title="数字",文化精品
+http://192.168.1.11:4869/udp/239.254.201.229:7260?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/早期教育.png" group-title="数字",早期教育
+http://192.168.1.11:4869/udp/239.254.201.230:7253?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/快乐垂钓.png" group-title="数字",快乐垂钓
+http://192.168.1.11:4869/udp/239.254.200.229:6257?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/书画.png" group-title="数字",书画标清
+http://192.168.1.11:4869/udp/239.254.200.217:6267?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/梨园.png" group-title="数字",梨园
+http://192.168.1.11:4869/udp/239.254.201.231:7228?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/卫生健康.png" group-title="数字",卫生健康
+http://192.168.1.11:4869/udp/239.254.200.37:7248?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/汽摩.png" group-title="数字",汽摩标清
+http://192.168.1.11:4869/udp/239.254.200.103:6252?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CETV2.png" group-title="卫视",CETV-2标清
+http://192.168.1.11:4869/udp/239.254.200.226:6260?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CETV4.png" group-title="卫视",CETV-4
+http://192.168.1.11:4869/udp/239.254.200.227:6261?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/中学生.png" group-title="数字",中学生标清
+http://192.168.1.11:4869/udp/239.254.200.113:6243?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/先锋乒羽.png" group-title="数字",先锋乒羽标清
+http://192.168.1.11:4869/udp/239.254.201.160:7172?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/发现之旅.png" group-title="数字",发现之旅标清
+http://192.168.1.11:4869/udp/239.254.200.25:7179?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/环球旅游.png" group-title="数字",环球旅游标清
+http://192.168.1.11:4869/udp/239.254.201.161:6264?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/车迷频道.png" group-title="数字",车迷标清
+http://192.168.1.11:4869/udp/239.254.201.162:6266?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/央视台球.png" group-title="数字",央视台球
+http://192.168.1.11:4869/udp/239.254.201.171:7176?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/四海钓鱼.png" group-title="数字",四海钓鱼标清
+http://192.168.1.11:4869/udp/239.254.201.185:6363?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/优优宝贝.png" group-title="数字",优优宝贝标清
+http://192.168.1.11:4869/udp/239.254.201.186:6272?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",生态环境标清
+http://192.168.1.11:4869/udp/239.254.201.187:6226?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2.png" group-title="数字",家庭理财标清
+http://192.168.1.11:4869/udp/239.254.201.188:6366?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/财富天下.png" group-title="数字",财富天下标清
+http://192.168.1.11:4869/udp/239.254.200.124:6370?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K-25P" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV4k.png" group-title="央视",CCTV-4K
+http://192.168.1.11:4869/udp/239.254.200.122:7266?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://192.168.1.11:4869/udp/239.254.201.205:4220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://192.168.1.11:4869/udp/239.254.201.206:4220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/cgtn.png" group-title="央视",CGTN 英文记录
+http://192.168.1.11:4869/udp/239.254.201.208:4220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/cgtn.png" group-title="央视",CGTN 西班牙语
+http://192.168.1.11:4869/udp/239.254.201.209:4220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/cgtn.png" group-title="央视",CGTN 法语
+http://192.168.1.11:4869/udp/239.254.201.210:4220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/cgtn.png" group-title="央视",CGTN 阿拉伯语
+http://192.168.1.11:4869/udp/239.254.201.211:4220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/cgtn.png" group-title="央视",CGTN 俄语
+http://192.168.1.11:4869/udp/239.254.201.212:4220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播1
+http://192.168.1.11:4869/udp/239.254.200.108:7275?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播2
+http://192.168.1.11:4869/udp/239.254.200.109:7276?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播3
+http://192.168.1.11:4869/udp/239.254.200.112:7277?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播4
+http://192.168.1.11:4869/udp/239.254.200.115:7278?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播5
+http://192.168.1.11:4869/udp/239.254.200.116:7279?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播6
+http://192.168.1.11:4869/udp/239.254.200.118:7280?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播7
+http://192.168.1.11:4869/udp/239.254.200.121:7281?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播8
+http://192.168.1.11:4869/udp/239.254.200.123:7282?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播9
+http://192.168.1.11:4869/udp/239.254.200.125:7283?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播10
+http://192.168.1.11:4869/udp/239.254.200.126:7284?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播11
+http://192.168.1.11:4869/udp/239.254.200.127:7285?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播12
+http://192.168.1.11:4869/udp/239.254.200.128:7286?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播13
+http://192.168.1.11:4869/udp/239.254.200.129:7287?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播14
+http://192.168.1.11:4869/udp/239.254.200.130:7288?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播15
+http://192.168.1.11:4869/udp/239.254.200.131:7289?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播16
+http://192.168.1.11:4869/udp/239.254.200.132:7290?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播17
+http://192.168.1.11:4869/udp/239.254.200.133:7291?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播18
+http://192.168.1.11:4869/udp/239.254.200.134:7292?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播19
+http://192.168.1.11:4869/udp/239.254.200.135:7293?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播20
+http://192.168.1.11:4869/udp/239.254.200.136:7294?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播21
+http://192.168.1.11:4869/udp/239.254.200.137:7295?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播22
+http://192.168.1.11:4869/udp/239.254.200.138:7296?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播23
+http://192.168.1.11:4869/udp/239.254.200.139:7297?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播24
+http://192.168.1.11:4869/udp/239.254.200.140:7298?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播九屏1
+http://192.168.1.11:4869/udp/239.254.200.141:7299?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播九屏2
+http://192.168.1.11:4869/udp/239.254.200.148:7300?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",慢直播九屏3
+http://192.168.1.11:4869/udp/239.254.200.151:7301?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/凤凰卫视香港台.png" group-title="其他",凤凰卫视香港台标清
+http://192.168.1.11:4869/udp/239.254.201.1:5214?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/凤凰卫视中文台.png" group-title="其他",凤凰卫视中文台标清
+http://192.168.1.11:4869/udp/239.254.201.2:5226?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://192.168.1.10:8418/ikaka09/8848/raw/branch/main/live/logo/凤凰卫视资讯台.png" group-title="其他",凤凰卫视资讯台标清
+http://192.168.1.11:4869/udp/239.254.201.3:5227?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",元氏电视
+http://192.168.1.11:4869/udp/239.254.200.191:5169?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",无极电视标清
+http://192.168.1.11:4869/udp/239.254.200.220:5167?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",高邑电视
+http://192.168.1.11:4869/udp/239.254.201.24:5170?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",栾城电视标清
+http://192.168.1.11:4869/udp/239.254.200.215:5173?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",井陉矿区电视
+http://192.168.1.11:4869/udp/239.254.201.14:5175?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",赞皇电视标清
+http://192.168.1.11:4869/udp/239.254.200.244:5177?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",深泽电视
+http://192.168.1.11:4869/udp/239.254.201.108:5180?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",赵县电视
+http://192.168.1.11:4869/udp/239.254.201.111:5183?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",晋州电视
+http://192.168.1.11:4869/udp/239.254.201.127:5184?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",井陉电视
+http://192.168.1.11:4869/udp/239.254.201.215:6167?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",新乐综合频道
+http://192.168.1.11:4869/udp/239.254.200.173:6168?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",平泉电视
+http://192.168.1.11:4869/udp/239.254.200.177:5286?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",滦平电视标清
+http://192.168.1.11:4869/udp/239.254.201.4:5291?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",双滦电视标清
+http://192.168.1.11:4869/udp/239.254.201.63:5293?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",兴隆电视
+http://192.168.1.11:4869/udp/239.254.201.95:5295?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",隆化电视
+http://192.168.1.11:4869/udp/239.254.201.142:5296?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",承德电视
+http://192.168.1.11:4869/udp/239.254.200.24:5297?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",宽城新闻标清
+http://192.168.1.11:4869/udp/239.254.200.171:5298?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",任泽电视标清
+http://192.168.1.11:4869/udp/239.254.201.115:5381?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",邯山电视标清
+http://192.168.1.11:4869/udp/239.254.201.116:5225?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",崇礼电视
+http://192.168.1.11:4869/udp/239.254.201.117:5267?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",顺平电视标清
+http://192.168.1.11:4869/udp/239.254.201.118:6257?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",邱县电视
+http://192.168.1.11:4869/udp/239.254.201.129:6209?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",赤城电视标清
+http://192.168.1.11:4869/udp/239.254.201.131:5269?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",沽源新闻综合
+http://192.168.1.11:4869/udp/239.254.200.175:5273?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",康保电视
+http://192.168.1.11:4869/udp/239.254.201.135:5270?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",遵化电视
+http://192.168.1.11:4869/udp/239.254.201.146:5202?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",昌黎电视标清
+http://192.168.1.11:4869/udp/239.254.201.61:5230?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",抚宁电视标清
+http://192.168.1.11:4869/udp/239.254.201.213:5232?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",卢龙电视标清
+http://192.168.1.11:4869/udp/239.254.201.216:5233?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",唐钢电视
+http://192.168.1.11:4869/udp/239.254.200.119:5203?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",丰南电视标清
+http://192.168.1.11:4869/udp/239.254.200.218:5186?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",迁西电视标清
+http://192.168.1.11:4869/udp/239.254.201.26:5188?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",滦南电视
+http://192.168.1.11:4869/udp/239.254.201.22:5191?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",玉田电视
+http://192.168.1.11:4869/udp/239.254.201.28:5194?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",滦州电视标清
+http://192.168.1.11:4869/udp/239.254.201.30:5196?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",香河电视标清
+http://192.168.1.11:4869/udp/239.254.201.32:5306?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",大城电视标清
+http://192.168.1.11:4869/udp/239.254.201.34:5308?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",大厂电视
+http://192.168.1.11:4869/udp/239.254.201.71:5310?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",固安电视标清
+http://192.168.1.11:4869/udp/239.254.201.101:5312?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",文安电视
+http://192.168.1.11:4869/udp/239.254.201.103:5314?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",三河电视
+http://192.168.1.11:4869/udp/239.254.201.113:5315?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",永清电视
+http://192.168.1.11:4869/udp/239.254.201.141:5316?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",成安电视
+http://192.168.1.11:4869/udp/239.254.201.143:6210?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",魏县电视
+http://192.168.1.11:4869/udp/239.254.201.148:6211?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",霸州综合标清
+http://192.168.1.11:4869/udp/239.254.200.4:5313?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",黄骅电视
+http://192.168.1.11:4869/udp/239.254.201.36:5325?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",孟村综合频道标清
+http://192.168.1.11:4869/udp/239.254.201.38:5329?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",东光电视标清
+http://192.168.1.11:4869/udp/239.254.201.76:5331?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",青县电视标清
+http://192.168.1.11:4869/udp/239.254.201.112:5333?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",盐山电视标清
+http://192.168.1.11:4869/udp/239.254.201.114:5334?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",南皮电视标清
+http://192.168.1.11:4869/udp/239.254.201.119:5335?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",肃宁电视标清
+http://192.168.1.11:4869/udp/239.254.201.122:5336?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",吴桥电视
+http://192.168.1.11:4869/udp/239.254.201.138:5337?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",丰宁综合
+http://192.168.1.11:4869/udp/239.254.200.5:5290?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",沧县电视
+http://192.168.1.11:4869/udp/239.254.201.7:5338?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",定兴电视标清
+http://192.168.1.11:4869/udp/239.254.200.172:5246?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",阜平电视
+http://192.168.1.11:4869/udp/239.254.201.40:5248?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",涞水电视
+http://192.168.1.11:4869/udp/239.254.201.10:5250?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",满城电视标清
+http://192.168.1.11:4869/udp/239.254.200.222:5252?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",涞源电视
+http://192.168.1.11:4869/udp/239.254.200.213:5260?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",高碑店电视
+http://192.168.1.11:4869/udp/239.254.200.210:5254?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",清苑电视标清
+http://192.168.1.11:4869/udp/239.254.200.117:5256?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",涿州电视
+http://192.168.1.11:4869/udp/239.254.201.17:5261?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",唐县电视
+http://192.168.1.11:4869/udp/239.254.201.41:5264?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",曲阳电视
+http://192.168.1.11:4869/udp/239.254.200.242:5265?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",望都电视标清
+http://192.168.1.11:4869/udp/239.254.201.56:6246?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",定州电视
+http://192.168.1.11:4869/udp/239.254.201.74:6251?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",雄县电视
+http://192.168.1.11:4869/udp/239.254.201.94:6254?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",高阳电视标清
+http://192.168.1.11:4869/udp/239.254.201.96:6253?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",安新电视标清
+http://192.168.1.11:4869/udp/239.254.201.99:6255?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",容城电视
+http://192.168.1.11:4869/udp/239.254.201.102:6256?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",柏乡电视
+http://192.168.1.11:4869/udp/239.254.201.140:5383?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",涿鹿电视标清
+http://192.168.1.11:4869/udp/239.254.201.145:5272?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",徐水电视
+http://192.168.1.11:4869/udp/239.254.201.147:6260?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",大名电视标清
+http://192.168.1.11:4869/udp/239.254.201.149:6212?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",巨鹿电视
+http://192.168.1.11:4869/udp/239.254.201.18:5385?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",威县电视标清
+http://192.168.1.11:4869/udp/239.254.200.62:5384?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",临西电视
+http://192.168.1.11:4869/udp/239.254.200.26:5386?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",冀州电视标清
+http://192.168.1.11:4869/udp/239.254.200.179:5346?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",安平电视
+http://192.168.1.11:4869/udp/239.254.201.42:5348?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",景县电视
+http://192.168.1.11:4869/udp/239.254.200.240:5350?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",饶阳电视
+http://192.168.1.11:4869/udp/239.254.201.44:5353?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",深州电视
+http://192.168.1.11:4869/udp/239.254.201.46:5357?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",武强电视标清
+http://192.168.1.11:4869/udp/239.254.200.34:5359?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",阜城电视标清
+http://192.168.1.11:4869/udp/239.254.201.98:5361?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",故城电视
+http://192.168.1.11:4869/udp/239.254.201.126:5362?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",枣强电视
+http://192.168.1.11:4869/udp/239.254.201.136:5363?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",清河电视
+http://192.168.1.11:4869/udp/239.254.200.170:5366?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",广宗电视标清
+http://192.168.1.11:4869/udp/239.254.201.50:5373?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",武安电视
+http://192.168.1.11:4869/udp/239.254.201.6:5216?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",宁晋电视标清
+http://192.168.1.11:4869/udp/239.254.201.51:5375?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",平乡电视标清
+http://192.168.1.11:4869/udp/239.254.201.53:5378?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",鸡泽电视
+http://192.168.1.11:4869/udp/239.254.201.60:5218?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",隆尧电视标清
+http://192.168.1.11:4869/udp/239.254.201.69:5379?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",广平电视标清
+http://192.168.1.11:4869/udp/239.254.201.70:5220?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",南和电视标清
+http://192.168.1.11:4869/udp/239.254.201.72:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",临漳电视
+http://192.168.1.11:4869/udp/239.254.201.73:5221?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",内丘电视
+http://192.168.1.11:4869/udp/239.254.201.77:5380?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",涉县电视
+http://192.168.1.11:4869/udp/239.254.201.97:5222?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",迁安电视标清
+http://192.168.1.11:4869/udp/239.254.201.109:5199?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",馆陶电视标清
+http://192.168.1.11:4869/udp/239.254.201.106:5224?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",乐亭电视标清
+http://192.168.1.11:4869/udp/239.254.201.107:5200?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",沙河电视标清
+http://192.168.1.11:4869/udp/239.254.200.181:5369?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",曲周电视标清
+http://192.168.1.11:4869/udp/239.254.200.236:5210?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",南宫电视
+http://192.168.1.11:4869/udp/239.254.201.48:5371?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="县级",丰润电视标清
+http://192.168.1.11:4869/udp/239.254.201.58:5197?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室1
+http://192.168.1.11:4869/udp/239.254.201.235:7392?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室2
+http://192.168.1.11:4869/udp/239.254.201.236:7393?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室3
+http://192.168.1.11:4869/udp/239.254.201.237:7394?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室4
+http://192.168.1.11:4869/udp/239.254.201.238:7395?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室5
+http://192.168.1.11:4869/udp/239.254.201.239:7396?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室6
+http://192.168.1.11:4869/udp/239.254.201.240:7397?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室7
+http://192.168.1.11:4869/udp/239.254.201.241:7398?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室8
+http://192.168.1.11:4869/udp/239.254.201.242:7399?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室9
+http://192.168.1.11:4869/udp/239.254.201.243:7400?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室10
+http://192.168.1.11:4869/udp/239.254.201.244:7401?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",直播室11
+http://192.168.1.11:4869/udp/239.254.201.245:7402?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",4K测试频道1
+http://192.168.1.11:4869/udp/239.254.201.246:7403?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",4K测试频道2
+http://192.168.1.11:4869/udp/239.254.201.247:7404?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",4K测试频道3
+http://192.168.1.11:4869/udp/239.254.201.248:7405?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",羽毛球专区
+http://192.168.1.11:4869/udp/239.254.201.214:7264?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",辅视角2-标清
+http://192.168.1.11:4869/udp/239.254.201.87:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",辅视角3-标清
+http://192.168.1.11:4869/udp/239.254.201.88:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",舞比快乐总决赛三屏评委信号
+http://192.168.1.11:4869/udp/239.254.201.89:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",舞比快乐总决赛四屏信号
+http://192.168.1.11:4869/udp/239.254.201.90:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",4k直播
+http://192.168.1.11:4869/udp/239.254.200.243:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",临时直播频道2
+http://192.168.1.11:4869/udp/239.254.201.65:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",临时直播频道3
+http://192.168.1.11:4869/udp/239.254.201.66:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",临时直播频道4
+http://192.168.1.11:4869/udp/239.254.201.67:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",临时直播频道5
+http://192.168.1.11:4869/udp/239.254.201.68:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",九屏直播频道
+http://192.168.1.11:4869/udp/239.254.200.248:6000?fcc=192.168.30.150:8027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中式八球国际公开赛
+http://192.168.1.11:4869/udp/239.254.200.187:6000?fcc=192.168.30.150:8027
+#EXTINF:-1,秦皇岛董家口风景区
+https://live.pull.hebtv.com/live/mzb102.m3u8
+#EXTINF:-1,秦皇岛老龙头景区
+https://live.pull.hebtv.com/live/mzb107.m3u8
+#EXTINF:-1,秦皇岛大潮坪湿地
+https://live.pull.hebtv.com/live/mzb110.m3u8
+#EXTINF:-1,秦皇岛祖山风景区
+https://live.pull.hebtv.com/live/mzb116.m3u8
+#EXTINF:-1,秦皇岛大潮坪湿地二
+https://live.pull.hebtv.com/live/mzb135.m3u8
+#EXTINF:-1,秦皇岛蔚蓝海岸帆船基地
+https://live.pull.hebtv.com/live/mzb142.m3u8
+#EXTINF:-1,秦皇岛大潮坪湿地三
+https://live.pull.hebtv.com/live/mzb145.m3u8
+#EXTINF:-1,秦皇岛山海关
+https://live.pull.hebtv.com/live/mzb147.m3u8
+#EXTINF:-1,秦皇岛冰糖峪景区
+https://live.pull.hebtv.com/live/mzb158.m3u8
+#EXTINF:-1,秦皇岛翠云山银河滑雪场
+https://live.pull.hebtv.com/live/mzb176.m3u8
+#EXTINF:-1,秦皇岛戴河生态园
+https://live.pull.hebtv.com/live/mzb188.m3u8
+#EXTINF:-1,秦皇岛左右山谷
+https://live.pull.hebtv.com/live/mzb269.m3u8
+#EXTINF:-1,秦皇岛黄金海岸
+https://live.pull.hebtv.com/live/mzb312.m3u8
+#EXTINF:-1,秦皇岛南山公园
+https://live.pull.hebtv.com/live/mzb315.m3u8
+#EXTINF:-1,秦皇岛大潮坪湿地四
+https://live.pull.hebtv.com/live/mzb332.m3u8
+#EXTINF:-1,秦皇岛乱刀峪景区
+https://live.pull.hebtv.com/live/mzb343.m3u8
+#EXTINF:-1,秦皇岛天女小镇
+https://live.pull.hebtv.com/live/mzb349.m3u8
+#EXTINF:-1,秦皇岛碣石山
+https://live.pull.hebtv.com/live/mzb352.m3u8
+#EXTINF:-1,秦皇岛金梦海湾二
+https://live.pull.hebtv.com/live/mzb353.m3u8
+#EXTINF:-1,秦皇岛碣阳湖水库
+https://live.pull.hebtv.com/live/mzb359.m3u8
+#EXTINF:-1,秦皇岛葡萄沟景区
+https://live.pull.hebtv.com/live/mzb384.m3u8
+#EXTINF:-1,秦皇岛求仙入海处景区
+https://live.pull.hebtv.com/live/mzb386.m3u8
+#EXTINF:-1,秦皇岛哒哒岛度假区
+https://live.pull.hebtv.com/live/mzb390.m3u8
+#EXTINF:-1,秦皇岛北戴河欢乐湾
+https://live.pull.hebtv.com/live/mzb398.m3u8
+#EXTINF:-1,秦皇岛阿尔卡迪亚度假区
+https://live.pull.hebtv.com/live/mzb400.m3u8
+#EXTINF:-1,秦皇岛山海关景区
+https://live.pull.hebtv.com/live/mzb404.m3u8
+#EXTINF:-1,秦皇岛金仕国际酒庄
+https://live.pull.hebtv.com/live/mzb407.m3u8
+#EXTINF:-1,秦皇岛板厂峪景区
+https://live.pull.hebtv.com/live/mzb434.m3u8
+#EXTINF:-1,秦皇岛桃林口
+https://live.pull.hebtv.com/live/mzb447.m3u8
+#EXTINF:-1,秦皇岛鲍子沟
+https://live.pull.hebtv.com/live/mzb453.m3u8
+#EXTINF:-1,秦皇岛城子峪景区
+https://live.pull.hebtv.com/live/mzb456.m3u8
+#EXTINF:-1,秦皇岛渔田七里河度假区
+https://live.pull.hebtv.com/live/mzb462.m3u8
+#EXTINF:-1,秦皇岛戴河生态园
+https://live.pull.hebtv.com/live/mzb463.m3u8
+#EXTINF:-1,秦皇岛七里海泻湖湿地
+https://live.pull.hebtv.com/live/mzb476.m3u8
+#EXTINF:-1,秦皇岛七里海泻湖湿地二
+https://live.pull.hebtv.com/live/mzb477.m3u8
+#EXTINF:-1,秦皇岛山海关景区二
+https://live.pull.hebtv.com/live/mzb482.m3u8
+#EXTINF:-1,秦皇岛阿那亚海滩
+https://live.pull.hebtv.com/live/mzb531.m3u8
+
+
